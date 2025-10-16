@@ -1,8 +1,8 @@
-# Android Project 4 - *Flixster Plus 2*
+# Android Project 6 - *Menstrual Cycle Tracker App*
 
 Submitted by: **Mi'Angel Sewer**
 
-**Flixster Plus 2 app** is a tv show browsing app that allows users to browse ... [TODO] 
+**MenstrualCycle** is a health metrics app that allows users to track their menstrual cycle. 
 
 Time spent: **36** hours spent in total
 
@@ -10,16 +10,9 @@ Time spent: **36** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
-- [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [x] **Use Glide to load and display at least one image per entry**
-- [x] **Click on an entry to view specific details about that entry using Intents**
-
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-- [x] the layout is horizontal 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
 ## Video Walkthrough
 
