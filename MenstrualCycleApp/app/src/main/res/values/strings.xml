@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MenstrualCycleApp</string>
+    <string name="add_new_cycle_entry">Add new cycle entry</string>
 </resources>
